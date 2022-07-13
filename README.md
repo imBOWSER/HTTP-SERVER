@@ -1,5 +1,6 @@
-#Info This HTTP Template Was Created By Gucktube https://github.com/GuckTubeYT/HTTPServer
-#Info This Was Renewed By Bowser#8740 , Credit Gucktube
+This HTTP Template Was Created By Gucktube https://github.com/GuckTubeYT/HTTPServer
+
+This Was Renewed By Bowser#8740 , Credit Gucktube
 
 # How to use
 ## PC
